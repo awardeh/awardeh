@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👃 I'm a junior AI engineer @ the Montreal based Stratuscent Inc, makers of the Noze device.
-- 👨‍💻 I'm a huge Pythonista. Python is my language of choice. I also know Java, C, and a bit of R. 
 - 🎓 I'm graduating from York University in Toronto in April 2023
 
 I haven't used my personal GitHub in a while, but I should start working on personal projects for fun again.
