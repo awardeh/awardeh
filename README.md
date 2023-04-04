@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👃 I'm a junior AI engineer @ the Montreal based Stratuscent Inc, makers of the Noze device.
-- 🎓 I'm graduating from York University in Toronto in April 2023
+- 👃 I'm a junior AI engineer @ the Montreal based startup Noze
+- 🎓 I'm graduating from York University, Toronto in September 2023
 
 I haven't used my personal GitHub in a while, but I should start working on personal projects for fun again.
