@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 👃 I'm a junior AI engineer @ the Montreal based startup Noze
-- 🎓 I'm graduating from York University, Toronto in September 2023
+- 🎓 I'm graduating from York University, Toronto in August 2023
 
 I haven't used my personal GitHub in a while, but I should start working on personal projects for fun again.
