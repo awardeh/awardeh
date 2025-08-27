@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👃 I'm an AI developer @ the Montreal based startup Noze
-- 🎓 I'm a York University Alumni
+- 👃 I'm an AI Engineer @ the Montreal-based startup [Noze](https://noze.ca)
+- 🎓 I studied Computer Science @ York University
 - 🏙️ I live in the Greater Toronto Area
-
+  
 I haven't used my personal GitHub in a while, but I should start working on personal projects for fun again.
